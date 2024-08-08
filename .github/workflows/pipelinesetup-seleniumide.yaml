@@ -28,7 +28,10 @@ jobs:
 
     - name: Install dependencies
       run: dotnet restore
-
+      
+    - name: Set execution permission for selenium-manager
+      run: chmod +x ./bin/Debug/net6.0/selenium-manager/linux/selenium-manager
+      
     - name: Build
       run: dotnet build --no-restore
 
