@@ -43,8 +43,8 @@ public class TC01IfUserIsInvalidTryAgainTest
         options.AddArgument("--disable-default-apps");
        // options.AddArgument("--incognito");
        
-        new DriverManager().SetUpDriver(new ChromeConfig());
-        driver = new ChromeDriver();
+        //new DriverManager().SetUpDriver(new ChromeConfig());
+        driver = new ChromeDriver(options);
 
         js = (IJavaScriptExecutor)driver;
         vars = new Dictionary<string, object>();
