@@ -98,6 +98,7 @@ C:\Users\Localhost\Documents\softuni\Front_EndAutom\29.07.WorkshopCISystem\1-Sel
 C:\Users\Localhost\Documents\softuni\Front_EndAutom\29.07.WorkshopCISystem\1-SeleniumIDE\2-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\SeleniumIde.AssemblyInfoInputs.cache
 C:\Users\Localhost\Documents\softuni\Front_EndAutom\29.07.WorkshopCISystem\1-SeleniumIDE\2-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\SeleniumIde.AssemblyInfo.cs
 C:\Users\Localhost\Documents\softuni\Front_EndAutom\29.07.WorkshopCISystem\1-SeleniumIDE\2-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\SeleniumIde.csproj.CoreCompileInputs.cache
+C:\Users\Localhost\Documents\softuni\Front_EndAutom\29.07.WorkshopCISystem\1-SeleniumIDE\2-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\SeleniumIde.sourcelink.json
 C:\Users\Localhost\Documents\softuni\Front_EndAutom\29.07.WorkshopCISystem\1-SeleniumIDE\2-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\Selenium.A39EF2E3.Up2Date
 C:\Users\Localhost\Documents\softuni\Front_EndAutom\29.07.WorkshopCISystem\1-SeleniumIDE\2-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\SeleniumIde.dll
 C:\Users\Localhost\Documents\softuni\Front_EndAutom\29.07.WorkshopCISystem\1-SeleniumIDE\2-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\refint\SeleniumIde.dll

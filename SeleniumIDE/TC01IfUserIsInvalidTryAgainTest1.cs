@@ -24,8 +24,13 @@ public class TC01IfUserIsInvalidTryAgainTest
         //    vars = new Dictionary<string, object>();
         // ChromeDriver with WebDriverManager
         var options = new ChromeOptions();
+        options.AddArguments("headless");
+        options.AddArguments("no-sandbox");
+        options.AddArguments("disable-dev-shm-usage");
+        options.AddArguments("disable_gpu");
+
         options.AddArguments("--disable-search-engine-choice-screen");
-        options.AddArgument("--incognito");
+        //options.AddArgument("--incognito");
         options.AddArgument("--disable-save-password-popup");
         options.AddArgument("--no-first-run");
         options.AddArgument("--no-default-browser-check");
@@ -34,6 +39,7 @@ public class TC01IfUserIsInvalidTryAgainTest
         options.AddArgument("--disable-infobars");
         options.AddArgument("--disable-notifications");
         options.AddArgument("--start-maximized");
+        options.AddArguments("window-size=1020x1080");
         options.AddArgument("--disable-default-apps");
        // options.AddArgument("--incognito");
        
