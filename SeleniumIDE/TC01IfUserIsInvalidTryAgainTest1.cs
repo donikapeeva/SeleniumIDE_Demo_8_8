@@ -6,8 +6,7 @@ using System.Linq;
 
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
-using WebDriverManager.DriverConfigs.Impl;
-using WebDriverManager;
+
 
 [TestFixture]
 public class TC01IfUserIsInvalidTryAgainTest
